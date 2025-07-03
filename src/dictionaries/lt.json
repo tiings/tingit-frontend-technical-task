@@ -1,0 +1,34 @@
+{
+  "home": {
+    "title": "Pagrindinis",
+    "refreshQuoteButton": "Atnaujinti citatą"
+  },
+  "button": {
+    "loading": "Kraunasi..."
+  },
+  "todos": {
+    "title": "Darbų sąrašas",
+    "countLabel": "Elementų skaičius",
+    "countPlaceholder": "Įveskite skaičių"
+  },
+  "state": {
+    "loading": "Kraunasi..."
+  },
+  "navigation": {
+    "menu": "Meniu",
+    "home": "Pagrindinis",
+    "todos": "Darbų sąrašas",
+    "common": {
+      "error": {
+        "title": "Klaida",
+        "description": "Įvyko netikėta klaida.",
+        "retry": "Bandyti dar kartą"
+      },
+      "notFound": {
+        "title": "Puslapis nerastas",
+        "description": "Puslapis, kurio ieškote, neegzistuoja.",
+        "back": "Grįžti atgal"
+      }
+    }
+  }
+}
